@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Creative tech, UX, CX, mobile and WebDev.  Working on AR / VR skills and building a few GAN based AI apps.
+
+Mostly writing in Javascript with occassional python, .net and java hacks.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+When I get round to it, I'll add some info here
